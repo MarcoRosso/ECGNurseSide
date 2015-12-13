@@ -14,7 +14,7 @@ import android.view.View;
 import android.widget.TextView;
 
 public class ContactActivity extends Activity{
-    private TextView welcome_name;
+    private TextView welcome_name; 
     private TextView welcome_roomnumber;
     private String name;
 	protected void onCreate(Bundle savedInstanceState) {
